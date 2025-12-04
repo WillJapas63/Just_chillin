@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "nome": "Tony",
+        "vida": 300,
+        "dano": 5,
+        "habilidade": "none",
+        "ability_lvl": 0,
+        "moedas": 20,
+        "level": 1
+    },
+    {
+        "id": 2,
+        "nome": "Thiago the boxer",
+        "vida": 400,
+        "dano": 7,
+        "habilidade": "Push",
+        "ability_lvl": 1,
+        "moedas": 7,
+        "level": 2
+    },
+    {
+        "id": 3,
+        "nome": "Victor the necromancer",
+        "vida": 700,
+        "dano": 23,
+        "habilidade": "Relive",
+        "ability_lvl": 3,
+        "moedas": 32,
+        "level": 7
+    }
+
+
+]
+
